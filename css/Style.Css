@@ -1,0 +1,83 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+.headertab{
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: -5px 10px;
+}
+.icons {
+  width:100px; margin:0 auto 0 auto; text-align:center;
+}
+#img_cont {
+  margin-left: 975px;
+}
+#img_cont a {
+  display: table-cell;
+  text-align: center;
+  width: 18%;
+}
+#img_cont img {
+  width: 100%;
+  max-width: 50px;
+}
+.img-with-text {
+    text-align: center;
+    width: ;
+}
+
+.img-with-text img {
+  width: 200px;
+  height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+#Name { position: absolute; visibility: visible; left: 570px; top: 240px; z-index: 200; font-size: 40px; color: #696969; }
+#EName { position: absolute; visibility: visible; left: 500px; top: 275px; z-index: 200; font-size: 50px; color: #696969; font-family: "Times New Roman" }
+#quote { position: absolute; visibility: visible; left: 390px; top: 360px; z-index: 200; font-size: 15px; color: 	#A9A9A9; font-family: "Times New Roman" }
+#Title1 { position: absolute; visibility: visible; left: 500px; top: 515px; z-index: 200; font-size: 30px; color: 	#303030; font-family: "Verdana" }
+#Titlemin { position: absolute; visibility: visible; left: 530px; top: 550px; z-index: 200; font-size: 20px; color: 	#303030;  }
+#img1 { position: absolute; visibility: visible; left: 50px; top: 560px; z-index: 200; }
+#img2 { position: absolute; visibility: visible; left: 400px; top: 560px; z-index: 200; }
+#img3 { position: absolute; visibility: visible; left: 750px; top: 560px; z-index: 200; }
+#plat1 { position: absolute; visibility: visible; left: 195px; top: 1000px; z-index: 200; color: #303030; font-family: "Verdana" }
+#plat2 { position: absolute; visibility: visible; left: 560px; top: 1010px; z-index: 200; color: #303030; font-family: "Verdana" }
+#plat3 { position: absolute; visibility: visible; left: 950px; top: 1000px; z-index: 200; color: #303030; font-family: "Verdana" }
+#ques1 { position: absolute; visibility: visible; left: 450px; top: 1120px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#ques2 { position: absolute; visibility: visible; left: 490px; top: 1170px; z-index: 200; font-size: 20px; color: #303030; }
+#rs11 { position: absolute; visibility: visible; left: 200px; top: 1300px; z-index: 200; }
+#rs12 { position: absolute; visibility: visible; left: 600px; top: 1300px; z-index: 200; }
+#rs13 { position: absolute; visibility: visible; left: 1000px; top: 1300px; z-index: 200; }
+#Note1 { position: absolute; visibility: visible; left: 210px; top: 1420px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note11 { position: absolute; visibility: visible; left: 215px; top: 1470px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#Note2 { position: absolute; visibility: visible; left: 620px; top: 1420px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note22 { position: absolute; visibility: visible; left: 630px; top: 1470px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#Note3 { position: absolute; visibility: visible; left: 900px; top: 1420px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note33 { position: absolute; visibility: visible; left: 980px; top: 1470px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#Note4 { position: absolute; visibility: visible; left: 210px; top: 1720px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note44 { position: absolute; visibility: visible; left: 230px; top: 1770px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#Note5 { position: absolute; visibility: visible; left: 620px; top: 1720px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note55 { position: absolute; visibility: visible; left: 620px; top: 1770px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#Note6 { position: absolute; visibility: visible; left: 1020px; top: 1720px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note66 { position: absolute; visibility: visible; left: 1030px; top: 1770px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#rs21 { position: absolute; visibility: visible; left: 200px; top: 1600px; z-index: 200; }
+#rs22 { position: absolute; visibility: visible; left: 600px; top: 1600px; z-index: 200; }
+#rs23 { position: absolute; visibility: visible; left: 1000px; top: 1600px; z-index: 200; }
+#Title2 { position: absolute; visibility: visible; left: 400px; top: 1900px; z-index: 200; font-size: 30px; color: 	#303030; font-family: "Verdana" }
+#Titlemax { position: absolute; visibility: visible; left: 500px; top: 1940px; z-index: 200; font-size: 20px; color: 	#303030;  }
+#rs31 { position: absolute; visibility: visible; left: 200px; top: 2000px; z-index: 200; }
+#rs32 { position: absolute; visibility: visible; left: 600px; top: 2000px; z-index: 200; }
+#rs33 { position: absolute; visibility: visible; left: 990px; top: 2000px; z-index: 200; }
+#Note7 { position: absolute; visibility: visible; left: 220px; top: 2150px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note77 { position: absolute; visibility: visible; left: 220px; top: 2200px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#Note8 { position: absolute; visibility: visible; left: 640px; top: 2150px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note88 { position: absolute; visibility: visible; left: 630px; top: 2200px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#Note9 { position: absolute; visibility: visible; left: 1040px; top: 2150px; z-index: 200; font-size: 35px; color: #303030; font-family: "Verdana" }
+#Note99 { position: absolute; visibility: visible; left: 1040px; top: 2200px; z-index: 200; font-size: 25px; color: #303030; font-family: "Verdana" }
+#AMC { position: absolute; visibility: visible; left: -950px; top: 265px; z-index: 200; font-size: 18px; color: #303030; font-family: "Verdana" }
+#imglast { position: absolute; visibility: visible; left: 1100px; top: 2275px; z-index: 200; }
